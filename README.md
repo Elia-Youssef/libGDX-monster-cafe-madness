@@ -75,3 +75,7 @@ OpenGL dependency. The four screen classes own presentation and navigation.
 
 The repository ships the twelve supplied runtime PNGs under `assets/`. Reference mockups are not
 required at runtime and are not included in the standalone project.
+
+## License
+
+This project is available under the [MIT License](LICENSE).
